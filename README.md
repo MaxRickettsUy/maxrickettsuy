@@ -6,5 +6,6 @@
 - 🌱 I’m currently learning Golang and Vue
 - 🐶 Check out my [website](https://www.maxrickettsuy.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRickettsUy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxRickettsUy&show_icons=true&theme=onedark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRickettsUy&layout=compact&hide=html&theme=onedark" alt="MaxRickettsUy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxRickettsUy&show_icons=true&count_private=true&theme=onedark" alt="MaxRickettsUy" width="50%"/></p>
