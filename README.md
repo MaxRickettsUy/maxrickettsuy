@@ -9,3 +9,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRickettsUy&layout=compact&hide=html&theme=onedark" alt="MaxRickettsUy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxRickettsUy&show_icons=true&count_private=true&theme=onedark" alt="MaxRickettsUy" width="50%"/></p>
+
+<p>Last updated: <code>08/07/2021</code></p>
