@@ -2,6 +2,7 @@
 
 - 👨‍👩‍👧 I'm Maquel's dad and Rachel's husband.
 - 👨‍💻 I'm a software developer [@Interclypse](https://www.interclypse.com) and former mentor [@Exerceo](https://www.exerceo.org)
+- 🧰 I enjoy doing frontend development (currently working with Nuxt/Vue).
 - 🐶 Check out my [website](https://www.maxrickettsuy.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRickettsUy&layout=compact&hide=html&theme=onedark" alt="MaxRickettsUy" /></p>
