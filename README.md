@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 👨‍👩‍👧 I'm Maquel's dad and Rachel's husband.
-- 👨‍💻 I'm a software developer [@Interclypse](https://www.interclypse.com) and mentor [@Exerceo](https://www.exerceo.org)
-- 🔭 I’m currently working on [btfd](https://github.com/MaxRickettsUy/btfd) and [recipls](https://github.com/MaxRickettsUy/recipls)
-- 🌱 I’m currently learning Golang and Vue
+- 👨‍💻 I'm a software developer [@Interclypse](https://www.interclypse.com) and former mentor [@Exerceo](https://www.exerceo.org)
 - 🐶 Check out my [website](https://www.maxrickettsuy.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRickettsUy&layout=compact&hide=html&theme=onedark" alt="MaxRickettsUy" /></p>
