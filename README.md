@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍👩‍👧 I'm Maquel and Carmela's dad and Rachel's husband.
+- 👨‍👩‍👧 I'm a dad and husband.
 - 👨‍💻 I'm a software developer [@Interclypse](https://www.interclypse.com).
 - 🧰 I enjoy doing frontend development. Currently enjoying Astro and Nextjs.
 - 🐶 Check out my [website](https://www.maxrickettsuy.com)
